@@ -1,4 +1,4 @@
-# SITS Project
+# SITS CCTV WEB APP
 
 ## Pemasangan Dependensi
 
